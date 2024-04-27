@@ -1,0 +1,5 @@
+Tasks are distributed evenly among resources, such as servers or processors, by
+round-robin task assignment, which reduces overloading and increases productivity. However, it
+may not be appropriate for activities with varying levels of complexity or priority, as it does not
+account for resource capacities or workload. More sophisticated load balancing techniques can
+be required in dynamic contexts to ensure the best possible work allocation.
